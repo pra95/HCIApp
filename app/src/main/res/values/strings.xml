@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">HCI App</string>
+    <string name="server_setup">Server Setup</string>
+    <string name="enter_the_server_ip_address">Enter the server IP address</string>
+    <string name="set">set</string>
+    <string name="fire">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_message">Do you want to exit</string>
+    <string name="conn_state_connecting">Connecting to :</string>
+    <string name="triple_dot">…</string>
+    <string name="conn_state_connected">Connected to server</string>
+    <string name="conn_state_failed">Failed to connect :</string>
+    <string name="conn_state_disconnected">Server Disconnected</string>
+    <string name="conn_status_default_message">Connection status</string>
+
+    <string name="subscription_key">955818dc15d74e1f91abc00c052f259f</string>
+    <string name="faceSubscription_key">5161975116ac4a3a82f20d866bad569d</string>
+
+    <string-array name="key_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>SPACE</item>
+        <item>ENTER</item>
+        <item>LEFT</item>
+        <item>RIGHT</item>
+        <item>UP</item>
+        <item>DOWN</item>
+
+    </string-array>
+
+
+    <string-array name="count_array">
+        <item>NONE</item>
+        <item>GESTURE</item>
+        <item>BUTTONS</item>
+
+
+    </string-array>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
